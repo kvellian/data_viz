@@ -46,6 +46,12 @@ Using this bar plot, to count properties by type, we can confirm our assumption 
 
 <img src="assets/img/count_bar_plot.png" alt="count_bar_plot">
 
+
+
+## Average Single-Family Home
+
+
+
 <img src="assets/img/sqft_dist.png" alt="sqft_dist">
 
 <img src="assets/img/price_dist.png" alt="price_dist">
