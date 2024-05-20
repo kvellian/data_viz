@@ -1,20 +1,40 @@
-This project aims to explore what the average single-family home in Texas could look like through data visualization.
+<img src="assets/img/headshot_circle_cropped.png" alt="Data Science Portfolio - Ken Vellian" width="200" height="200">
 
-Data Bias:
-- According to the source, this dataset features “a curated selection of 500 property listings. It encompasses a wide array of properties, reflecting the diverse real estate landscape across Texas”, which indicates that there is some bias with the data selection.
+#### Technical Skills: Python, R, SQL, Tableau
 
-## Data Exploration
+## Education
 
-## Data Cleaning
+M.S., Data Science | DePaul University | (_Expected June 2025_)
+- Concentration: Computational Methods
 
-Collaboration with our team, GraphGurus: 
-- Performed by Francisco Lozano: KNN Imputation to clean missing square footage, # of stories, and year built.
-- Performed by Ken Vellian: Extract address information, through regular expressions, from the URL column to create the new street address, city, state, and zip columns. Extract square footage and acre size, through regular expressions, from the text column and fill in missing square footage values.
+B.S., Info. Systems & Decision Sciences | Louisiana State University | (_May 2020_)
+- Minor: Computer Science
 
-## Initial Analysis
 
-Using this bar plot, to count properties by type, we can confirm our assumption about the large presence of single-family homes in the dataset, with 400 listings. This explanatory visualization displays the sums of each type at the top of the bar to inform the reader of the exact count, and the size of the bars allows us to visually gauge each type's impact on the dataset. Exploring this property type further might provide great insights due to its large significance. It will allow us to make reasonable estimations when diving deeper.
+## Work Experience
+**Operations Manager @ Bizi Mart | Antioch, CA (_October 2022 - August 2023_)**
+- bullet 1!
+- bullet 2!
 
-<img src="assets/img/count_bar_plot.png" alt="Count Bar Plot image">
 
-## Average Single-Family Home
+**Client Services Consultant @ Oracle Textura Payment Management | Pleasanton, CA (Remote) (_April 2021 – October 2022_)**
+- bullet 1!
+- bullet 2!
+
+## Projects
+**Runtime Comparison of SQL Queries vs. Functions on Twitter Databases**
+- Topic: Database Processing for Large-Scale Analytics (Python, SQL, JSON)
+- [Data Source](http://dbgroup.cdm.depaul.edu/DSC450/OneDayOfTweets.txt)
+
+**Predicting Penguin Sizes**
+- Topic: Fundamentals of Data Science (R)
+- [Data Source](https://www.kaggle.com/datasets/parulpandey/palmer-archipelago-antarctica-penguin-data)
+
+**Visualizing Texas Real Estate Trends 2024: 500 Listings 🏠**
+- Topic: Data Visualization (R)
+- Collaborative Project
+- [Visit Project](https://github.com/kvellian/portfolio/tree/main/projects/data-viz)
+- [Data Source](https://www.kaggle.com/datasets/kanchana1990/texas-real-estate-trends-2024-500-listings/data)
+
+
+<img src="assets/img/count_bar_plot.png" alt="count bar plot">
