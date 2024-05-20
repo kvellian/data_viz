@@ -1,8 +1,6 @@
 # data_viz
 Repository for Data Visualization project: Visualizing Texas Real Estate Trends 2024: 500 Listings
 
-<img src="assets/img/headshot_circle_cropped.png" alt="Data Science Portfolio - Ken Vellian" width="200" height="200">
-
 #### Technical Skills: Python, R, SQL, Tableau
 
 ## Education
