@@ -35,6 +35,8 @@ Data Bias:
 
 ## Data Cleaning
 
+During the data cleaning process, 578 missing values (NAs) were identified.
+
 Collaboration with our team, GraphGurus: 
 - Performed by Francisco Lozano: KNN Imputation to clean missing square footage, # of stories, and year built.
 - Performed by Ken Vellian: Regular expressions used to create the new street address, city, state, and zip columns from the URL column. Also used regular expressions to extract square footage and acre size from the text column and fill in missing square footage values.
