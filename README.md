@@ -1,8 +1,9 @@
-# Visualizing Texas Real Estate Trends 2024: 500 Listings 🏠
+## Dataset
 
+This dataset, real_estate_texas_500_2024.csv, was sourced from Kaggle.
 - [Kaggle Data Source](https://www.kaggle.com/datasets/kanchana1990/texas-real-estate-trends-2024-500-listings/data)
 
-This project aims to explore what the average single-family home in Texas could look like through data visualization.
+This project focuses on data visualization, in R, to explore what the average single-family home in Texas could look like.
 
 Data Bias:
 - According to the source, this dataset features “a curated selection of 500 property listings. It encompasses a wide array of properties, reflecting the diverse real estate landscape across Texas”, which indicates that there is some bias with the data selection.
@@ -46,7 +47,7 @@ Collaboration with our team, GraphGurus:
 <img src="assets/img/count_bar_plot.png" alt="count_bar_plot">
 
 
-## Average Single-Family Home
+## Average Single-Family Home in Texas
   Now that we’ve confirmed that single-family homes have a large presence in this dataset, exploring its variables should give us a better understanding of what the average single-family home listed for sale in Texas could look like.
   
   These histograms below explore the distribution of square footage, in skyblue, and the distribution of listing prices, in darkolivegreen, for single-family homes. The red Kernel Density Estimate curves in both graphs have been smoothed for the data and appear to be skewing towards the right, which indicates similar patterns across different variables in single-family homes. As square footage increases, the frequency of homes listed for sale decreases. Similar to how when the listing price increases, the number of listings decreases as well. We can probably assume that the outliers in each of the graphs could be related.
@@ -58,10 +59,17 @@ Collaboration with our team, GraphGurus:
 <img src="assets/img/price_dist.png" alt="price_dist">
 
 
-  To get a better picture as to what other variables define this property type, this heatmap below, displays the spread of bathrooms vs bedrooms across single-family homes in this dataset. In this explanatory visualization, there are 4 predominately darker tiles, with 3 bedrooms/ 2 bathrooms appearing to have the darkest tile. The YlGnBu sequential palette was intentionally applied so the reader can decode the increase in the count of single-family homes as color goes from light to dark.
+  To get a better picture as to what other variables define this property type, this heatmap below, displays the spread of bathrooms vs bedrooms across the 400 single-family homes. In this explanatory visualization, there are 4 predominately darker tiles, with 3 bedrooms/ 2 bathrooms appearing to have the darkest tile. The YlGnBu sequential palette was intentionally applied so the reader can decode the increase in the count of single-family homes as color goes from light to dark.
 
 <img src="assets/img/bed_vs_bath_heatmap.png" alt="bed_vs_bath_heatmap">
 
 
-  In summary, after exploring this property type further with various techniques, we can get a better idea as to what the average is from this dataset. So, if a family is looking to purchase a single-family home in Texas, they’ll get a better understanding of what to expect in the real estate market.
+  In summary, after exploring this property type further with various techniques, we can get an idea as to what the average is from this dataset. So, if a family is looking to purchase a single-family home in Texas, they’ll get a better understanding of what to expect in the real estate market.
 
+  
+| Variable        | Calculated Average | Average from Reader |
+|-----------------|--------------------|---------------------|
+| Listing Price   | $457,608.30        | ~ $450,000          |
+| Square Footage  | 2,226.75           | ~ 2,000             |
+| Bedrooms        | 3.53               | 3                   |
+| Bathrooms       | 2.6875             | 2                   |
