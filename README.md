@@ -8,7 +8,7 @@ Data Bias:
 
 ## RMarkdown Code
 
-- [View Data Visualization Report](https://kvellian.github.io/data_viz/assets/path/GraphGurus_FinalScript_portfolio_KV.html)
+- [View Data Visualization Report](https://kvellian.github.io/data_viz/assets/path/GraphGurus_data_viz_KV.html)
 
 ## Purpose
 
