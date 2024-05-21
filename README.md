@@ -1,7 +1,7 @@
 ## Dataset
 
 This dataset, real_estate_texas_500_2024.csv, was sourced from Kaggle.
-- [Kaggle Data Source](https://www.kaggle.com/datasets/kanchana1990/texas-real-estate-trends-2024-500-listings/data)
+- [Kaggle Data Source: real_estate_texas_500_2024.csv](https://www.kaggle.com/datasets/kanchana1990/texas-real-estate-trends-2024-500-listings/data)
 
 Data Bias:
 - According to the source, this dataset features “a curated selection of 500 property listings. It encompasses a wide array of properties, reflecting the diverse real estate landscape across Texas”, which indicates that there is some bias with the data selection.
