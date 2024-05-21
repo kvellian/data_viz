@@ -50,7 +50,11 @@ Collaboration with our team, GraphGurus:
 ## Average Single-Family Home in Texas
   Now that we’ve confirmed that single-family homes have a large presence in this dataset, exploring its variables should give us a better understanding of what the average single-family home listed for sale in Texas could look like.
   
-  These histograms below explore the distribution of square footage, in skyblue, and the distribution of listing prices, in darkolivegreen, for single-family homes. The red Kernel Density Estimate curves in both graphs have been smoothed for the data and appear to be skewing towards the right, which indicates similar patterns across different variables in single-family homes. As square footage increases, the frequency of homes listed for sale decreases. Similar to how when the listing price increases, the number of listings decreases as well. We can probably assume that the outliers in each of the graphs could be related.
+  These histograms below explore the distribution of square footage, in skyblue, and the distribution of listing prices, in darkolivegreen, for single-family homes. 
+  
+  The red Kernel Density Estimate curves in both graphs have been smoothed for the data and appear to be skewing towards the right, which indicates similar patterns across different variables in single-family homes. 
+  
+  As square footage increases, the frequency of homes listed for sale decreases. Similar to how when the listing price increases, the number of listings decreases as well. We can probably assume that the outliers in each of the graphs could be related.
   
   Based on these explanatory visualizations, at first glance, we can estimate that the average single-family home listed for sale in Texas has about 2000 sqft with a listing price of about $450,000 within this dataset.
 
