@@ -6,10 +6,9 @@ This dataset, real_estate_texas_500_2024.csv, was sourced from Kaggle.
 Data Bias:
 - According to the source, this dataset features “a curated selection of 500 property listings. It encompasses a wide array of properties, reflecting the diverse real estate landscape across Texas”, which indicates that there is some bias with the data selection.
 
-## Code
+## RMarkdown Code
 
-### HTML Report
-- [View HTML Report](https://kvellian.github.io/data_viz/assets/path/GraphGurus_FinalScript_portfolio_KV.html)
+- [View Data Viz Report](https://kvellian.github.io/data_viz/assets/path/GraphGurus_FinalScript_portfolio_KV.html)
 
 ## Purpose
 
