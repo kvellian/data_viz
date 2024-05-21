@@ -6,6 +6,9 @@ This dataset, real_estate_texas_500_2024.csv, was sourced from Kaggle.
 Data Bias:
 - According to the source, this dataset features “a curated selection of 500 property listings. It encompasses a wide array of properties, reflecting the diverse real estate landscape across Texas”, which indicates that there is some bias with the data selection.
 
+## Code
+- [GraphGurus_FinalScript_portfolio_KV.rmd](assets/path/GraphGurus_FinalScript_portfolio_KV.rmd) - RMarkdown file for project.
+
 ## Purpose
 
 This project focuses on data visualization, with R, to explore what the average single-family home in Texas could look like.
@@ -37,7 +40,7 @@ This project focuses on data visualization, with R, to explore what the average 
 
 ## Data Cleaning
 
-During the data cleaning process, 578 missing values (NAs) were identified.
+578 missing values (NAs) were identified during the data-cleaning process.
 
 Collaboration with our team, GraphGurus: 
 - Performed by Francisco Lozano: KNN Imputation to clean missing square footage, # of stories, and year built.
@@ -45,7 +48,7 @@ Collaboration with our team, GraphGurus:
 
 ## Initial Analysis
 
-  Using this bar plot, to count properties by type, the assumption about the large presence of single-family homes in the dataset can be confirmed, with 400 listings. This explanatory visualization displays the sums of each type at the top of the bar to inform the reader of the exact count, and the size of the bars allows us to visually gauge each type's impact on the dataset. Exploring this property type further might provide great insights due to its large significance. It will allow us to make reasonable estimations when diving deeper.
+  Using this bar plot, to count properties by type, the assumption about the large presence of single-family homes in the dataset can be confirmed, with 400 listings. This explanatory visualization displays the sums of each type at the top of the bar to inform the reader of the exact count, and the size of the bars allows us to gauge each type's impact on the dataset visually. Exploring this property type further might provide great insights due to its large significance. It will allow us to make reasonable estimations when diving deeper.
 
 
 <img src="assets/img/count_bar_plot.png" alt="count_bar_plot">
