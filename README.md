@@ -7,7 +7,9 @@ Data Bias:
 - According to the source, this dataset features “a curated selection of 500 property listings. It encompasses a wide array of properties, reflecting the diverse real estate landscape across Texas”, which indicates that there is some bias with the data selection.
 
 ## Code
-- [GraphGurus_FinalScript_portfolio_KV.rmd](assets/path/GraphGurus_FinalScript_portfolio_KV.rmd) - RMarkdown file for project.
+
+### HTML Report
+- [View HTML Report](https://kvellian.github.io/data_viz/assets/path/GraphGurus_FinalScript_portfolio_KV.html)
 
 ## Purpose
 
